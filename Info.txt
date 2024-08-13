@@ -1,0 +1,105 @@
+	🚶**Definição e Iniciação**
+
+Definição de Objetivos - Classificar os objetivos do projeto, como melhorar a eficiência operacional garantir a segurança dos dados e suportar tomadas de decisões.
+
+Identificação de Stakeholders - Identificar todas as partes interessantes e definir seus papéis e responsabilidades.
+
+Escopo do Projeto - Definir o escopo do projeto, incluindo o que será incluído e o que será excluído.
+
+Cronograma e Orçamento - Estabelecer um cronograma detalhado e um orçamento para o projeto. (forcar mais no cronograma)
+
+
+	📃*Levantamento de Análise de Requisitos* 
+
+Requisitos funcionais - coletar e documentar os requisitos funcionais do banco de dados, como tipos de dados a serem armazenados e operação a serem realizadas.
+
+Stakeholders - 
+
+Requisitos Não Funcionais - identificar requisitos não funcionais, como desempenho, escalabilidade, segurança e conformidade com regulamentação
+
+Análise de requisitos - Analisar e priorizar os requisitos, identificando possíveis desafios e soluções.
+
+	💭**Modelagem Conceitual**
+
+Diagrama de Entidade Relacionamento (ER) - Criar um diagrama ER para representar visualmente as entidades, atribuindo e relacionando.
+ 
+Dicionário de Dados - Documentar os detalhes de cada entidade e seus atributos, incluindo tipos de dados e restrições.
+
+	🧠**Modelagem Lógica** 
+
+Modelo Lógico de Dados - Converter o modelo conceitual em um modelo lógico, definindo tabelas, colunas, chaves primárias e estrangeiras e restrições.
+
+Normalização - Aplicar técnicas de normalização para reduzir redundâncias e melhorar a integridade de dados.
+
+	💻**Modelagem Física**
+ 
+Modelo Físico de Dados - Desenvolver o modelo físico, especificando como os dados serão armazenamentos no SGBD (Sistema de Gerenciamento de Banco de Dados).
+
+Script de Criação - Criar scripts SQL para a criação das tabelas, índices e outras estruturas no banco de dados.
+
+Configuração do SGBD - Instalar configuração SGBD de acordo com os requisitos do projeto.
+
+População dos Dados - Inserir dados iniciais no banco de dados, garantindo a integridade e consistência.
+
+Procedimentos Armazenados e Triggers - Desenvolver scripts para procedimentos armazenados, trigger e outras lógicas de negócio.
+
+Gerenciamento de Permissões - Implementar gerenciamento de usuário, papéis e permissões.
+
+	📄**Documentação**
+
+Documentação Técnica - Documentar todos os aspectos técnicos do banco de dados, incluindo diagramas, scripts e configurações.
+
+Manual do Usuário - Criar guias para usuários finais e administradores, detalhando como usar e manter o banco de dados.
+
+Stakeholders - grupos de indivíduos que, de forma ou de outra, apresentam interesse nos projetos, atividades e resultados.
+
+	
+	*Processo de Criação para Cada Fase* 
+
+Definição de Objetivos
+
+Identificação dos Problemas - 
+Estabelecer Metas e Objetivos - 
+ 
+Identificação dos Stakeholders 
+
+Mapeamento de Stakeholders - 
+Análise de Stakeholders - 
+
+Definição do Escopo do projeto
+
+Desenvolvimento de Declaração de Escopo -
+Identificação de Requisitos - coletar requisitos funcionais e não funcionais através de entrevistas, 
+
+Entregáveis da Fase de Planejamento e Iniciação:
+
+	* Documentação;
+	* Declaração de Escopo;
+	* Mapa de Stakeholders;
+	* Cronograma Detalhado; 
+	* Orçamento;
+	* Plano de Comunicação; 
+	* Plano de Risco;
+	* Aprovação Formal;
+ 
+Entregáveis da Fase de Levantamento de Análise de Requisitos:
+
+	* Documentação de Requisitos Funcionais;
+	* Documentação de Requisitos Não Funcionais;
+	* Caso de Uso (Não é necessário);
+	Mais alguns outros...
+
+
+Descrição das Entregas de Fases
+
+Fase1 - Planejamento Iniciação (27/agosto);
+Fase2 - Levantamento e Análise de Requisitos (10/setembro);
+Fase3 - Modelagem Conceitual (24/setembro);
+Fase4 - Modelagem Lógica (8/outubro);
+Fase5 - Modelagem Física (22/outubro);
+Fase6 - Aprovação do Projeto (29.10 // 05.11 // 12.11);
+
+NOME DO GRUPO 	 abarcellos@unicid.edu.br
+NOME / RGM
+
+  
